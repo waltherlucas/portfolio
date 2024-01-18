@@ -1,0 +1,103 @@
+body {
+    background-color: #24252A;
+    height: 100vh;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1400px;
+}
+
+header {
+    margin: 25px;
+}
+
+header img {
+    width: 100px
+}
+
+.nav-link {
+    border-bottom: 2px #B9A874 solid;
+}
+
+.silver {
+    color: #CDCDCD;
+}
+
+.silver:hover {
+    color: #B9A874;
+}
+
+.home {
+    margin-top: 100px;
+}
+
+.sous-titre {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    color: #CDCDCD;
+}
+
+main p {
+    font-family: "Lobster", sans-serif;
+    font-weight: lighter;
+    color: #CDCDCD;
+    font-size: 1.5rem;
+}
+
+main h1 {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    color: #CDCDCD;
+    font-size: 7rem;
+}
+
+main h2 {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    color: #B9A874;
+    font-size: 2rem;
+}
+
+.div-bar {
+    width: 700px;
+}
+
+.vingt {
+    width: 15%;
+}
+
+.bar {
+    width: 85%;
+    height: 5px;
+    background-color: #B9A874;
+}
+
+.nb-silver{
+    color: #CDCDCD;
+}
+
+.vertical{
+    writing-mode: vertical-rl;
+    text-orientation: sideways;
+    letter-spacing: 3px;
+    /* margin-top:3px; */
+}
+
+.bar-vertical{
+    height: 200px;
+    width: 20px;
+    gap: 15px;
+}
+
+.bar-vertical p{
+    height: 30%;
+}
+
+.bar-high{
+    height: 70%;
+    width: 3px;
+    background-color: #CDCDCD;
+    margin-right: -10px;
+
+}
